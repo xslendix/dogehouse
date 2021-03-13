@@ -12,7 +12,7 @@
     "edit": "editează",
     "delete": "șterge",
     "joinRoom": "alătura-te camerei",
-    "copyLink": "copiează link-ul",
+    "copyLink": "Copiează link-ul",
     "copied": "copiat",
     "formattedIntlDate": "{{date, intlDate}}",
     "formattedIntlTime": "{{time, intlTime}}"
@@ -39,8 +39,8 @@
     "followList": {},
     "home": { "createRoom": "Crează cameră" },
     "inviteList": {
-      "roomGone": "camera a dispărut, du-te înapoi",
-      "shareRoomLink": "partajează link cu camera",
+      "roomGone": "Camera a dispărut, du-te înapoi",
+      "shareRoomLink": "Partajează link cu camera",
       "inviteFollowers": "Poți invita urmăritorii tăi care sunt online:",
       "whenFollowersOnline": "Cănd urmăritorii tăi sunt online, o să apară aici."
     },
@@ -191,8 +191,8 @@
     "scheduledRooms": {
       "title": "Camere Programate",
       "noneFound": "niciunul nu a fost găsit",
-      "allRooms": "toate camerele programate",
-      "myRooms": "camerele mele programate",
+      "allRooms": "Toate camerele programate",
+      "myRooms": "Camerele mele programate",
       "scheduleRoomHeader": "Programează Cameră",
       "startRoom": "Începe o cameră",
       "modal": {
